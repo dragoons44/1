@@ -1,1 +1,4 @@
-# 1beginner
+# 1
+
+Hi! ;)
+I'm beginner here! :(
